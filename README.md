@@ -80,4 +80,5 @@ DFS Traversal Path: ['A', 'B', 'D', 'E', 'C']
 
 
 **Result:**
+
 Thus the program to implement depth first search of a traversal graph has been executed successfully.
